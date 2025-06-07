@@ -23,7 +23,7 @@ A Django-based web app where:
 ![Output Page](images/2_image.png)
 
 🎧 Sample Output MP3:  
-[▶️ Listen to Sample](https://raw.githubusercontent.com/Vishvajitsinh-Chudasama/Text_To_Speech/textspeech/media/admin/speech.mp3)
+[▶️ Listen to Sample](https://raw.githubusercontent.com/Vishvajitsinh-Chudasama/Text_To_Speech/main/textspeech/media/admin/speech.mp3)
 
 ---
 
