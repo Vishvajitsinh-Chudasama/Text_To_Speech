@@ -1,0 +1,20 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+env/
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+/staticfiles/
+/media/
+
+# VSCode settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
